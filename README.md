@@ -19,13 +19,15 @@ Um projeto simples de Gerador de QR Codes utilizando HTML, CSS, JavaScript e a b
 
 ## Captura da tela
 
-![screenshot](tela-captura.jpg) 
+<div align="left">
+      <img src="https://github.com/user-attachments/assets/b3869775-0c9e-4100-a32f-364bd54dca30" width="350px"/> 
+</div>
 
 ## Como rodar o projeto
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/qr-code-generator.git
+   git clone https://github.com/Saulodtarso06/gerador-qrcode-vue.git
    ```
 ### Pré-requisitos
 Obs: Os navegadores de internet devem estar atualizados.
